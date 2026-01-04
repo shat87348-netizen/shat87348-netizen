@@ -166,7 +166,7 @@ const zhangshuming = {
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
