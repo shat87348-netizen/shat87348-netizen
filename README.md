@@ -59,6 +59,20 @@ const zhangshuming = {
 
 ---
 
+## 动态贪吃蛇 - 年度贡献图动画版
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
+  
+  <br/>
+  
+  <sub>贪吃蛇会吃掉你的贡献点，比GitHub原生的贡献图更有趣！</sub>
+  
+</div>
+
+---
+
 ## 技术栈
 
 ### 编程语言
@@ -166,9 +180,19 @@ const zhangshuming = {
 
 <div align="center">
   
-  ![Yearly Contributions](https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/output/github-contribution-grid-snake.svg)
+  ### 🐍 贪吃蛇动画 - 基于年度贡献图生成
   
-  *贪吃蛇动画基于年度贡献图生成*
+  <img src="https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" width="100%" />
+  
+  <sub>✨ 贪吃蛇会吃掉你的贡献点，让GitHub贡献图更有趣！</sub>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **💡 提示：** 这是基于你的年度贡献图生成的动态贪吃蛇动画，比GitHub原生的贡献图更有趣！
   
 </div>
 
