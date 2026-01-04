@@ -162,11 +162,11 @@ const zhangshuming = {
 
 ---
 
-## GitHub 活动统计
+## GitHub 贡献统计
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shat87348-netizen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF)
+  ![Snake animation](https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/output/github-contribution-grid-snake.svg)
   
 </div>
 
