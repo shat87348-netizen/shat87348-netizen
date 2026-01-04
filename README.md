@@ -162,11 +162,13 @@ const zhangshuming = {
 
 ---
 
-## GitHub 贡献统计
+## GitHub 年度贡献统计
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![Yearly Contributions](https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/output/github-contribution-grid-snake.svg)
+  
+  *贪吃蛇动画基于年度贡献图生成*
   
 </div>
 
