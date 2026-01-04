@@ -59,15 +59,16 @@ const zhangshuming = {
 
 ---
 
-## 动态贪吃蛇 - 年度贡献图动画版
+## GitHub 年度贡献统计
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/main/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
+  <!-- 使用GitHub Activity Graph API生成贡献图 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shat87348-netizen&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="GitHub Activity Graph" />
   
   <br/>
   
-  <sub>贪吃蛇会吃掉你的贡献点，比GitHub原生的贡献图更有趣！</sub>
+  <sub>年度贡献活动统计图</sub>
   
 </div>
 
