@@ -63,7 +63,7 @@ const zhangshuming = {
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
+  <img src="https://raw.githubusercontent.com/shat87348-netizen/shat87348-netizen/main/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
   
   <br/>
   
