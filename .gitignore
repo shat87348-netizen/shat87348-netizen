@@ -1,0 +1,6 @@
+# BOSS直聘相关文件
+BOSS直聘_files/
+*.html
+
+# 简历文件（如果需要保留在本地但不提交）
+# jianli.md
