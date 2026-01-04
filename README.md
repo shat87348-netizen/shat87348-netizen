@@ -63,12 +63,30 @@ const zhangshuming = {
 
 <div align="center">
   
-  <!-- 使用GitHub Activity Graph API生成贡献图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shat87348-netizen&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="GitHub Activity Graph" />
+  <!-- 使用HTML/CSS实现的贡献图展示 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shat87348-netizen&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&height=300" alt="GitHub Activity Graph" />
   
   <br/>
   
-  <sub>年度贡献活动统计图</sub>
+  <sub>年度贡献活动统计图 - 基于GitHub Activity Graph API</sub>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- 使用HTML表格展示贡献统计 -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=shat87348-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.demolab.com/?user=shat87348-netizen&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
   
 </div>
 
